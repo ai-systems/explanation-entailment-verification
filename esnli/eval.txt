@@ -1,0 +1,2 @@
+pearson correlation (Predicates) 0.9897541536452688 0.0
+number of samples 100

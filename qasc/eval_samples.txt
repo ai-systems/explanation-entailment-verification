@@ -1,0 +1,357 @@
+==========================================================================================================
+Id: 3S0TNUHWKTHQ9JCRRM452RSYB608DZ
+Question: what requires a warm body temperature for survival? (A) Man (B) humans (C) oxygen (D) density (E) cows (F) dogs (G) fish (H) water
+Correct: E
+Explanation:
+an animal usually requires a warm body temperature for survival
+Cows are social animals.
+==========================================================================================================
+Id: 3300DTYQT2G17TQN9BWPU0VJ434QEV
+Question: What can use energy in order to make food for itself and others? (A) organisms (B) mollusks (C) trees (D) microbes (E) seeds (F) chlorophyll (G) plants (H) animals
+Correct: G
+Explanation:
+Producers use energy and inorganic molecules to make food.
+If the plant is green, it is a producer.
+==========================================================================================================
+Id: 39JEC7537U0EF32QZJK4AZUO2ICCVO
+Question: what do adult sponges produce? (A) Energy (B) heat (C) gametes (D) alveoli (E) fertile (F) food (G) white (H) homogenous
+Correct: C
+Explanation:
+Adult sponges produce eggs and sperm.
+Sperm and eggs are cells known as gametes.
+==========================================================================================================
+Id: 3DEL4X4EL6KJMV8QVQ3BVBJSIOCXY5
+Question: what does bacteria cause? (A) loss of h2o (B) harmful substances (C) Pollution (D) serious illness (E) increase in oxygen (F) carbon (G) Deoxyribonucleicacid (H) symptoms
+Correct: D
+Explanation:
+bacteria cause food poisoning
+Food poisoning is a serious illness.
+==========================================================================================================
+Id: 3WZ36BJEV3FGS66VGOOUYX0LY0ZTB8
+Question: What produces grain? (A) flowers (B) leaves (C) food (D) sugar (E) ducks (F) plants (G) honeybees (H) mice
+Correct: A
+Explanation:
+a flower 's purpose is to produce seeds
+Grain is the seed portion of the plants.
+==========================================================================================================
+Id: 3I7DHKZYGNZ4KL7LKUSSE7LSJDNF5P
+Question: what converts mechanical energy into kinetic energy when it moves? (A) dogs (B) Bats (C) camels (D) Birds (E) Mammal (F) bears (G) hawks (H) Whales
+Correct: A
+Explanation:
+when an animal moves , chemical energy is converted to mechanical energy
+All dogs are animals .
+==========================================================================================================
+Id: 3LOZAJ85YDCTLAFJ25WGM7IN7MEX2F
+Question: What needs to be lacking for a creature to change habitat? (A) warmth (B) inedible plants (C) wind (D) oxygen (E) nektar (F) food (G) O2 (H) dirt
+Correct: F
+Explanation:
+if a habitat can no longer support animals then those animals will move to another area
+Animals are dependent on plants for food and habitat.
+==========================================================================================================
+Id: 3E337GFOL97EOA9MZEUWQ9LQCKCGNJ
+Question: a disease that can be metastic occurs when the cell cycle is regulated how often? (A) often (B) no less (C) forever (D) Leptospirosis (E) illness (F) heat or cold (G) no longer (H) electrically
+Correct: G
+Explanation:
+Cancer is a disease that occurs when the cell cycle is no longer regulated.
+Metastatic cancer is cancer that has spread.
+==========================================================================================================
+Id: 3PB5A5BD0V5PLPHZJ7D7UCZ09TCG7M
+Question: What do windmills use to convert energy? (A) Heat (B) fibers (C) copper (D) cycles (E) SO2 (F) Vanes (G) calcite (H) Lift
+Correct: F
+Explanation:
+a windmill converts wind energy into electricity primarily by using mechanical energy
+Windmills tap into the energy of the wind using sails or vanes.
+==========================================================================================================
+Id: 3BF51CHDTV9P3ACQIEAG0X1EJN5H0R
+Question: What group of animals do chordates belong to? (A) graptolites (B) more abundant (C) warm-blooded (D) four limbs (E) epidermal (F) Vertebrates (G) animals (H) insects
+Correct: F
+Explanation:
+Chordates have a complete digestive system and a closed circulatory system.
+Vertebrates have a closed circulatory system.
+==========================================================================================================
+Id: 3QXNC7EIPIUWO4U7K2MONG3QX2I09M
+Question: What do animals require to move? (A) babies (B) food (C) warmth (D) air (E) oven (F) heat (G) oxygen (H) children
+Correct: B
+Explanation:
+an animal requires energy to move
+All foods provide energy.
+==========================================================================================================
+Id: 3IQ1VMJRYTJSPHSPC4JHCMF35JB9AS
+Question: what does erosion form? (A) valleys (B) Sediment (C) mountains (D) canyons (E) soils (F) hills (G) soft soil (H) loose soil
+Correct: D
+Explanation:
+most canyons are formed by flowing rivers through erosion over long periods of time
+Canyon formed as a consequence of river erosion.
+==========================================================================================================
+Id: 3JV9LGBJWTDW6V9Y0TU95YLV2UXOGM
+Question: What do cells secrete to maintain the proper pH for enzymes to work? (A) Energy (B) Chemical energy (C) water conservation (D) sweating (E) heat energy (F) aqueous solution (G) Organic compounds (H) electrolytes
+Correct: H
+Explanation:
+Cells secrete acids and bases to maintain the proper pH for enzymes to work.
+Acids and bases are electrolytes.
+==========================================================================================================
+Id: 3X87C8JFV6A2HCV5A6GUJHZY3CYSQH
+Question: What rocks are formed by deposition? (A) Sand dollars (B) soft soil (C) jury (D) sandstone (E) coral reefs (F) In sediment (G) lawyer (H) basalt
+Correct: D
+Explanation:
+sedimentary rocks are formed by deposition
+Sedimentary Rocks One of the commonest sedimentary rocks is sandstone.
+==========================================================================================================
+Id: 3U088ZLJVKS7007FDDWG10B1V3Z0W8
+Question: What often requires bees? (A) food and shelter (B) Play dates (C) important habitats (D) genetic diversity (E) Plant reproduction (F) timers (G) gene flow (H) Wasp study
+Correct: E
+Explanation:
+plant reproduction often requires pollen
+Bees carry pollen from one plant to another when they collect both nectar and pollen.
+==========================================================================================================
+Id: 35GMH2SV3EGYMHD7UY4L5V0J3QNOEC
+Question: What is a key factor determining global weather patterns? (A) influenza orthomyxoviruses (B) Something with a head, thorax, and abdomen (C) The atmosphere (D) Water density (E) Underground movement (F) Unequal heating of the earth (G) health (H) the sun's energy
+Correct: F
+Explanation:
+unequal heating of Earth 's surface by the Sun causes global wind patterns
+Winds are a key factor in determining global weather patterns.
+==========================================================================================================
+Id: 3LEP4MGT3GZ9BHAYUYOFTTIZEOEBDD
+Question: What do plants require for reproduction? (A) energy (B) nutrients (C) bloom time (D) animals (E) sunlight (F) Energy. (G) food (H) hormones
+Correct: D
+Explanation:
+plant requires seed dispersal for reproduction
+Seeds are probably dispersed by animals.
+==========================================================================================================
+Id: 351SEKWQS0G5U8EVLNEO79TTV8MMDS
+Question: Meiosis is the type of cell division that produces: (A) animals (B) Plant reproduction (C) Most plants (D) peachleaf willow (E) Plants growth (F) haploid cells (G) spread flower seeds (H) rapid expansion
+Correct: F
+Explanation:
+Meiosis is the type of cell division that produces gametes.
+Gametes are haploid egg or sperm that fuse to form a zygote.
+==========================================================================================================
+Id: 3KGTPGBS6XK146LOX0LT20JJD7S2UT
+Question: What does natural selection do to organisms? (A) move to different locations (B) Damages them (C) protect them (D) Creates them (E) Softens them (F) competing for resources (G) Helps them survive (H) Destroy them
+Correct: G
+Explanation:
+Evolution occurs by a process called natural selection.
+Evolution is about electing to survive.
+==========================================================================================================
+Id: 3OWEPKL089BVVHYL6BQ2KW8XRW17NN
+Question: Vaccines that offer protection from cervical cancer target  (A) animals (B) organ (C) health (D) glioblastoma (E) bacteria (F) measles (G) it's state (H) viruses
+Correct: H
+Explanation:
+Some viruses can cause cancer.
+Human papillomavirus vaccine is aimed at the cause of most cases of cervical cancer.
+==========================================================================================================
+Id: 3X1FV8S5JXQRWFIV15GN0QF3031VG0
+Question: what do ecosystems get energy from? (A) colors of the spectrum (B) fossil fuels (C) during the day (D) our star (E) electromagnetism (F) In their leaves (G) rays or beams (H) sun's heat
+Correct: E
+Explanation:
+Most ecosystems get energy from sunlight.
+Sunlight is a form of electromagnetic energy.
+==========================================================================================================
+Id: 3TMSXRD2X6Z77PSX9W0GF5UB6FY1WF
+Question: what do animals lack? (A) Bodily water (B) hair (C) skin cells (D) fur and fat (E) chlorophyll (F) lungs (G) Chemical energy (H) sensory neurons
+Correct: E
+Explanation:
+Chloroplasts contain the green pigment chlorophyll.
+Animals lack chloroplasts.
+==========================================================================================================
+Id: 3M1CVSFP604YHG9BT6U3YH5SKU6AQX
+Question: What make the stem or root grow larger in diameter? (A) heart cells (B) rainfall (C) bending light rays (D) vascular tissues (E) tissue boxes (F) plant cells (G) colors of the spectrum (H) Exfoliation
+Correct: D
+Explanation:
+Secondary meristem is located within and around the vascular tissues.
+Secondary meristems make the stem or root grow larger in diameter.
+==========================================================================================================
+Id: 34J10VATJFXDNYS95UMGFFTBTUXIQB
+Question: What are clouds made of? (A) tiny (B) thunder (C) energy (D) mud (E) Energy. (F) gas (G) sediment (H) water
+Correct: H
+Explanation:
+condensation causes clouds to form
+Condensation is water from the air.
+==========================================================================================================
+Id: 39O5D9O87TRU3U07F9EYR4258913CJ
+Question: What does pulping fibres for paper save? (A) Trees (B) animals (C) tissue (D) people (E) Time (F) Energy (G) Manpower (H) humans
+Correct: A
+Explanation:
+creating wood-free paper does not require cutting down trees
+Dozens of non-wood fibers are pulped for paper around the world.
+==========================================================================================================
+Id: 3ZY8KE4ISJ2I94C941LZU4J5IPHVQC
+Question: what does extreme heat and pressure change rock into? (A) coal (B) crust (C) forces (D) calcite (E) an object (F) marble (G) soils (H) mines
+Correct: F
+Explanation:
+extreme heat and pressure change rock into metamorphic rock
+Marble is a form of metamorphic rock.
+==========================================================================================================
+Id: 3K772S5NP8AOU0RKQL9VLM3IBWMEHV
+Question: If an organism becomes too hot, then what completes their cycle? (A) sweating (B) Dehydration (C) Jellyfish (D) squids (E) dormant state (F) starfish (G) decomposers (H) cancer
+Correct: G
+Explanation:
+if an organism becomes too hot then that organism may die
+When the animals and plants die, the decomposers complete the cycle.
+==========================================================================================================
+Id: 3PXX5PX6LXXBDA7MAOXD3SATZP4ABB
+Question: Mussels have what? (A) seaweed (B) arms (C) Energy (D) a shell (E) warmth (F) bacteria (G) Length (H) legs
+Correct: D
+Explanation:
+Most mollusks have shells.
+Mussels are bivalve mollusks.
+==========================================================================================================
+Id: 35H6S234SAZ81SEAJ1POK18FR1O65S
+Question: what can communicate with sounds, chemicals, or visual cues? (A) sound waves (B) bears (C) sheep (D) humans (E) sun rays (F) clouds (G) Birds (H) cats
+Correct: H
+Explanation:
+Animals can communicate with sounds, chemicals, or visual cues.
+All cats are animals.
+==========================================================================================================
+Id: 3ZDAD0O1T1CN599WLKGCNURD4FBXTK
+Question: What derive energy from the breakdown of organic molecules? (A) Most plants (B) hydrocarbons (C) potatoes (D) all stones (E) all water sources (F) all mountains (G) all animals (H) Generating heat
+Correct: G
+Explanation:
+All animals are heterotrophs.
+Heterotrophic bacteria derive energy from the breakdown of organic molecules.
+==========================================================================================================
+Id: 3HRMW88U16PBVOD19BQTS29AZCE0MY
+Question: What can be used to extend the shelf life of food? (A) irradiation (B) farming (C) Dehydration (D) rays or beams (E) vegetables (F) Cooking (G) Enzymes (H) fruit
+Correct: A
+Explanation:
+killing microorganisms in food can be used to extend the shelf life of that food
+Irradiation kills microorganisms that spoil food.
+==========================================================================================================
+Id: 3A9AA95ATWLGBYWFYXOXQ1ZWQICP57
+Question: Bottleneck effect can occur with  (A) external migration (B) direct damage to the lungs (C) Movement of an air mass (D) competition (E) if humans disturb bears (F) competing for resources (G) Plant growth is reduced (H) Temperature changing
+Correct: A
+Explanation:
+Bottleneck effect occurs when a population suddenly gets much smaller.
+Population growth is reduced by external migration.
+==========================================================================================================
+Id: 3KOPY89HM81HB86DP1VKE8F0YFOJ3Z
+Question: What causes things to die and quickly decay? (A) beans (B) mushrooms (C) viruses (D) medicine (E) poison (F) heat (G) bacteria (H) apoptosis
+Correct: E
+Explanation:
+poison causes harm to living things
+When living things die, they quickly begin to decay.
+==========================================================================================================
+Id: 36TFCYNS449X00I1LQZN9BOPR2DXH3
+Question: Computers run when what is working properly? (A) metal forks (B) an engine (C) lowered energy cost (D) deoxyribonucleic acid (E) plastic switches (F) objects that have mass (G) power ballads (H) electrical circuit
+Correct: H
+Explanation:
+when an electrical circuit is working properly , electrical current runs through that circuit
+Currently computers run on electric circuits and wires.
+==========================================================================================================
+Id: 31Z0PCVWUKETQU3537CETVEP58V7T9
+Question: What mammals have a high energy requirement and generate heat? (A) cats (B) bats (C) Crustaceans (D) bears (E) frogs (F) lizards (G) birds (H) mammals
+Correct: G
+Explanation:
+Mammals generate heat mainly by keeping their metabolic rate high.
+Birds have a high metabolic rate and a high energy requirement.
+==========================================================================================================
+Id: 34V1S5K3GS0R2FGMMR25WHDHEBL69Q
+Question: Pacinian corpuscles are found mainly in the _. (A) tumor (B) pupils (C) muscle (D) hair (E) skin (F) Man (G) retina (H) Summer
+Correct: E
+Explanation:
+Pressure receptors are found mainly in the skin.
+Pacinian corpuscles are pressure receptors.
+==========================================================================================================
+Id: 3WMOAN2SRBWX67ZHO9TIQAO0ZI6VNV
+Question: What is used as energy by most organisms? (A) sodium (B) water (C) energy. (D) food (E) sugar (F) Energy (G) solutes (H) light
+Correct: E
+Explanation:
+Glucose is used for energy by the cells of most organisms.
+For instance, glucose is a sugar.
+==========================================================================================================
+Id: 3BEFOD78W6SSUCV2SCDV45ZNJA04MZ
+Question: What reproduce sexually? (A) ferns (B) bulbs (C) toads (D) Flowers (E) legumes (F) bamboo (G) embryos (H) humans
+Correct: B
+Explanation:
+Tunicates reproduce sexually.
+Bulbs are classifies as tunicate or non-tunicate.
+==========================================================================================================
+Id: 3Y54SXRO1LKVO5F1GF5P3NS9OORUTI
+Question: A bulb uses electrical energy to produce: (A) waves (B) unique (C) fields (D) Green (E) heat (F) rays (G) energy (H) warmth
+Correct: F
+Explanation:
+a light bulb requires electrical energy to produce light
+Ray translates as light .
+==========================================================================================================
+Id: 3NG53N1RLVIZYGFHWVV02L9NQWT8PI
+Question: what can only contract? (A) resistance (B) lungs (C) nerves (D) Bend (E) triceps (F) strong (G) mechanical (H) four limbs
+Correct: E
+Explanation:
+Muscles can only contract.
+Arm day hits the bicep, tricep and forearm muscles.
+==========================================================================================================
+Id: 3U4J9857OEATU89O3LLTT183YBY7B5
+Question: Where can peat, buried under soil and mud and through extreme heat and pressure, change into coal? (A) coastlines (B) alluvial (C) Sediment (D) uncontrolled (E) germany (F) wetlands (G) wind (H) deltas
+Correct: F
+Explanation:
+being burried under soil and mud changes peat into coal through extreme heat and pressure in a swamp over a long period of time
+Marshes and swamps are wetlands.
+==========================================================================================================
+Id: 33JKGHPFYCTEGK58AHSR3E5N74QMNU
+Question: Why do bears hibernate? (A) use greater resources (B) one celled organisms (C) they are lazy (D) conserve energy (E) When it's cold (F) hard outer covering (G) hydration (H) more sleep
+Correct: D
+Explanation:
+hibernation is used for conserving energy by some animals
+Bears use the fat as energy over the winter hibernation.
+==========================================================================================================
+Id: 3GS6S824SQWALWZMEJYECC7E798NWY
+Question: Which of the following interferes with the assembly of proteins? (A) flow of electrons (B) Electric devices (C) Smoking (D) dry conditions (E) saturated fats (F) Humans (G) palm oil (H) Azathioprine.
+Correct: H
+Explanation:
+DNA contains genetic instructions for proteins, and RNA helps assemble the proteins.
+Azathioprine interferes with DNA and RNA synthesis.
+==========================================================================================================
+Id: 38JBBYETQO9UIO3PBEPCRXUE9HT4EB
+Question: Adults of what kind of animal have radial symmetry? (A) graptolites (B) starfish (C) a fish (D) fur seals (E) alpacas (F) insects (G) fertile (H) barnacles
+Correct: B
+Explanation:
+Adult echinoderms have radial symmetry.
+Echinoderms are represented by the starfish.
+==========================================================================================================
+Id: 33ISQZVXPPLIGUWQ82PZK76ZSCVCC1
+Question: Sense of smell impacts an animal's what? (A) mate (B) reproduction (C) growth (D) habitat (E) survival (F) Movement (G) hormones (H) traits
+Correct: E
+Explanation:
+better senses have a positive impact on an animal 's survival
+Plus, our sense of smell is infinitely better.
+==========================================================================================================
+Id: 3TMFV4NEP8DPIPCI8H9VUFHJVRQW83
+Question: Threatening behavior causes a fight-or-flight response in what? (A) Whales (B) dogs (C) hair (D) Birds (E) humans (F) hats (G) bacteria (H) bears
+Correct: B
+Explanation:
+threatening behavior causes a fight-or-flight response in animals
+Dogs are highly social animals.
+==========================================================================================================
+Id: 3G5F9DBFOPW5WBD6LBY5LQR4HBEHV3
+Question: What causes an object to lose energy? (A) fur and fat (B) Temperature (C) sweating (D) Evaporation (E) wind (F) pressure (G) Dehydration (H) photons
+Correct: F
+Explanation:
+friction causes an object to lose energy
+Pressure causes friction, and friction causes heat.
+==========================================================================================================
+Id: 37W3JXSD6674XV30LL7PTS5LNPAWYZ
+Question: Evaporation can be used for separating a solute from a water in what? (A) molecule (B) Condensation (C) atom (D) aqueous solution (E) Heat energy (F) vaporization (G) evaporation (H) aqueous chemical
+Correct: D
+Explanation:
+evaporation can be used for separating a solute from a solvent in a solution
+An aqueous solution has water as the solvent.
+==========================================================================================================
+Id: 3TE3O8573079OET7T6QOXPWZ16R2RJ
+Question: eggs need to incubate to what (A) complete (B) mitosis (C) be fertilized (D) produce nutrients (E) be eaten (F) Winter (G) survive (H) sunlight
+Correct: G
+Explanation:
+an egg requires warmth to survive
+Eggs depend upon body warmth to incubate.
+==========================================================================================================
+Id: 3R9WASFE2ZF2RZRARIZ83BSNN3OZFU
+Question: What responds to daily and seasonal cycles and to disease? (A) resistance (B) Sundays (C) vegetation (D) Summer season (E) swamp vegetation (F) Mondays (G) alpacas (H) Green beans
+Correct: H
+Explanation:
+Plants respond to daily and seasonal cycles and to disease.
+Green bean plantings continue to be planted.
+==========================================================================================================
+Id: 3X66WABAJWH7K6GCHVAHHVNK6OEG31
+Question: What do species rely on to talk? (A) Frogs (B) energy (C) language (D) hands (E) squids (F) feet (G) Frogs. (H) sound
+Correct: H
+Explanation:
+sound can be used for communication by animals
+Many animals rely on sounds to communicate to others in their species.

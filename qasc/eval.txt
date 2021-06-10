@@ -1,0 +1,2 @@
+pearson correlation (Predicates) 0.9585567236642588 0.0
+number of questions 100

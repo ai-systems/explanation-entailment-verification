@@ -1,0 +1,306 @@
+=================================================================
+Premise: A young boy is on a patio crowded with metal tables and chairs and 2 yellow umbrellas.
+Hypothesis: A young boy is on a crowded patio.
+Label: entailment
+Explanation:
+On a crowded patio is a paraphrase of on a patio crowded with metal tables.
+=================================================================
+Premise: A group of numbered participants walk down the street together.
+Hypothesis: A group walks down the street.
+Label: entailment
+Explanation:
+The numbered participants is simply more detail provided.  In both a group walks down the street, whether on not "together" is specified.
+=================================================================
+Premise: A smiling woman is playing the violin in front of a turquoise background.
+Hypothesis: A woman is playing an instrument.
+Label: entailment
+Explanation:
+A violin is an instrument.
+=================================================================
+Premise: A lone, 2-3 year old blond child in a blue jacket is putting a small black plastic item in his mouth as he kneels on a waiting room couch pointed toward the back while looking at something or someone not in the room.
+Hypothesis: The child is blonde.
+Label: entailment
+Explanation:
+A child is looking cute in blue jacket
+=================================================================
+Premise: A football player in a blue 'Rams' jersey runs with a football on a field, as another player in a white jersey falls in an attempt to tackle him.
+Hypothesis: The football players are on a field
+Label: entailment
+Explanation:
+A field is where players run and tackle.
+=================================================================
+Premise: A man tumbles as spectators watch at the University of Michigan.
+Hypothesis: Spectators watch a man tumble.
+Label: entailment
+Explanation:
+A man tumbles as spectators watch is the same as spectators watch a man tumble.
+=================================================================
+Premise: A little girl is jumping over a yellow rope.
+Hypothesis: A girl jumps rope.
+Label: entailment
+Explanation:
+jumping over a yellow rope is same as jumps rope.
+=================================================================
+Premise: The couple are wearing glasses intended for 3D movies.
+Hypothesis: A couple are both wearing accessories.
+Label: entailment
+Explanation:
+glasses are wearable accessories
+=================================================================
+Premise: Two children standing in the grass being sprayed by a hose.
+Hypothesis: Children are getting hosed down on the grass
+Label: entailment
+Explanation:
+Sprayed by a hose means getting hosed down.
+=================================================================
+Premise: A woman holding a camera.
+Hypothesis: A woman holds a camera in her hands.
+Label: entailment
+Explanation:
+holding a camera implies that it is in her hands.
+=================================================================
+Premise: A father and son kicking a ball at a park.
+Hypothesis: The father and son kicked the ball.
+Label: entailment
+Explanation:
+If both father and son were kicking the ball, then you can assume that both father and son at one point kicked the ball.
+=================================================================
+Premise: One football player holding the ball is chased by another football player from the opposing team
+Hypothesis: A football playing chasing the opposing teams player in a game.
+Label: entailment
+Explanation:
+Opposing teams are playing football.
+=================================================================
+Premise: Weekend barbecue with some fish.
+Hypothesis: Weekend barbecue with some fish
+Label: entailment
+Explanation:
+Weekend barbecue with some fish is the same as weekend barbecue with some fish.
+=================================================================
+Premise: A male with brown clothing standing on the side of the street with his thumb out with a big bag on his back.
+Hypothesis: a man is standing
+Label: entailment
+Explanation:
+Although sentence 1 is not proper English grammar, it can be inferred that the man is standing since it says a male ... standing...
+=================================================================
+Premise: A man in a t-shirt is stirring something in a pot which is on a counter near a microwave oven.
+Hypothesis: A man is stirring something near a microwave
+Label: entailment
+Explanation:
+If the pot is near the microwave then the man is near the microwave.
+=================================================================
+Premise: Two girls are sitting outside on the ground in front of a lake.
+Hypothesis: two girls sit by a lake
+Label: entailment
+Explanation:
+Two girls sit by a lake is rephrase of two girls sitting outside on the ground in front of a lake.
+=================================================================
+Premise: One football player wearing an orange jersey and one wearing a white jersey are set at the starting line.
+Hypothesis: Two football players wearing jerseys.
+Label: entailment
+Explanation:
+If one player is wearing an orange jersey and the other is wearing white, two players are wearing jerseys.
+=================================================================
+Premise: Javelin competition
+Hypothesis: There is a competition.
+Label: entailment
+Explanation:
+There must be a competition for a Javelin competition to take place.
+=================================================================
+Premise: A woman in a purple sweater has an odd look on her face.
+Hypothesis: A woman in a purple sweater has an odd look on her face.
+Label: entailment
+Explanation:
+The color purple gives the woman the look on her face.
+=================================================================
+Premise: An infant is in a crib and crying.
+Hypothesis: A baby is unhappy.
+Label: entailment
+Explanation:
+If the infant is crying, it can be assumed that they are unhappy.
+=================================================================
+Premise: on a snowy day a man with a north face jacket walks through the crowded streets past a garbage truck
+Hypothesis: A man walks down the street in winter.
+Label: entailment
+Explanation:
+Since the man is walking on a snowy day down a street, it is likely winter.
+=================================================================
+Premise: Two men in animal print pants sleep on a white bed.
+Hypothesis: Two men are inside.
+Label: entailment
+Explanation:
+Two men sleeping on a white bed implies that they are inside.
+=================================================================
+Premise: A small ice cream stand with two people standing near it.
+Hypothesis: Two people standing outside an ice cream stand.
+Label: entailment
+Explanation:
+If the people are near the stand they are outside it.
+=================================================================
+Premise: A cute couple at a club
+Hypothesis: The couple is at a club.
+Label: entailment
+Explanation:
+A cute couple at a club means a couple is at a club.
+=================================================================
+Premise: Seven men wearing bright orange reflective vests are looking inside the door of a red train.
+Hypothesis: A group of men are looking in a train.
+Label: entailment
+Explanation:
+Seven men are looking in a train.
+=================================================================
+Premise: A policeman is directing a crowd of people walking.
+Hypothesis: A policeman is herding pedestrians.
+Label: entailment
+Explanation:
+directing a crowd of people is other expression of  herding pedestrians.
+=================================================================
+Premise: A old man sells hardware parts on a dirty sidewalk.
+Hypothesis: The man is outside.
+Label: entailment
+Explanation:
+The man is on a dirty sidewalk. Sidewalks are found outdoors, therefore, the man is outside
+=================================================================
+Premise: A woman in black framed glasses peruses a photo album while sitting in a red wicker chair.
+Hypothesis: There is a lady with a book.
+Label: entailment
+Explanation:
+The lady is looking through a photo album which is a type of book.
+=================================================================
+Premise: A festival displays two men dressed in red makeup and costume, while an older man has cream on his face.
+Hypothesis: Two men are dressed in makeup
+Label: entailment
+Explanation:
+In red makeup is a type of makeup.
+=================================================================
+Premise: A man is doing tricks on a skateboard.
+Hypothesis: A human doing tricks
+Label: entailment
+Explanation:
+tricks on a skateboard is inferred as doing tricks
+=================================================================
+Premise: A young child with dark shoulder length hair, in a yellow shirt and pink pants, is walking eating cheerios out of a ziplock bag.
+Hypothesis: a child eats cheerios
+Label: entailment
+Explanation:
+young child with dark shoulder length hair, in a yellow shirt and pink pants, is walking eats cheerios out of a ziplock bag.
+=================================================================
+Premise: A man wearing lime green pants and shirt working on a sign.
+Hypothesis: A man wearing pants and shirt working on a sign.
+Label: entailment
+Explanation:
+The lime green is simply more detail to describe the pants and shirt the man is wearing.
+=================================================================
+Premise: Three children in swimsuites are having fun outside near a white building.
+Hypothesis: Some children outside having fun and playing.
+Label: entailment
+Explanation:
+Three children can be considered some children. Most kids are having fun when they are playing.
+=================================================================
+Premise: An Asian man in a t-shirt and sandals is smoking a pipe while sitting on a rock in front of a body of water.
+Hypothesis: The man is asian.
+Label: entailment
+Explanation:
+Asian man is the same as the man is Asian.
+=================================================================
+Premise: A man wearing a red bicycle helmet talking on a cellphone with other people in the background.
+Hypothesis: A man talks on a cellphone.
+Label: entailment
+Explanation:
+A man talking on a cellphone talks on a cellphone.
+=================================================================
+Premise: People walking down a busy city street in the winter.
+Hypothesis: The street has a lot of people.
+Label: entailment
+Explanation:
+A busy city street implies the street having a lot of people.
+=================================================================
+Premise: A man wearing a mask with green dreadlocks and blue gloves stands in front of a woman in a brown cardigan.
+Hypothesis: The man seems to be in disguise.
+Label: entailment
+Explanation:
+A mask and green dreadlocks implies that the man is wearing a disguise.
+=================================================================
+Premise: A couple being romantic under the sunset.
+Hypothesis: People are enjoying sundown.
+Label: entailment
+Explanation:
+A couple consists of people. Sunset is sundown.
+=================================================================
+Premise: Two boys in green and white uniforms play basketball with two boys in blue and white uniforms.
+Hypothesis: Boys are playing basketball.
+Label: entailment
+Explanation:
+Play means the boys are playing.
+=================================================================
+Premise: A young boy playing in a bubble playing in water.
+Hypothesis: A person is getting wet.
+Label: entailment
+Explanation:
+A young boy is a type of person, and playing in water implies they'll get wet.
+=================================================================
+Premise: A sunny street with a red building, parked cars, and a man walking down the road.
+Hypothesis: The sun is shining.
+Label: entailment
+Explanation:
+If the street is sunny, then the sun is shining.
+=================================================================
+Premise: A man and woman sit on a park bench with a set of newlyweds behind.
+Hypothesis: People outside.
+Label: entailment
+Explanation:
+A MAN AND WOMAN ARE AT THE PARK
+=================================================================
+Premise: A woman sits in a chair under a tree and plays an acoustic guitar.
+Hypothesis: A woman plays an acoustic guitar under a tree.
+Label: entailment
+Explanation:
+The woman was sitting under the tree playing guitar.
+=================================================================
+Premise: Two men are in a boxing match where a man in the red boxing trunks is hitting the man in the purple trunks.
+Hypothesis: The two men are involved in a physical activity.
+Label: entailment
+Explanation:
+hitting is a physical activity.
+=================================================================
+Premise: A woman in black clothing runs down the street barefoot next to two people on bicycles and a female runner.
+Hypothesis: The woman is outdoors.
+Label: entailment
+Explanation:
+A woman running down the street is outdoors.
+=================================================================
+Premise: A boy in an orange shirt sells fruit from a street cart.
+Hypothesis: A boy is a street vendor.
+Label: entailment
+Explanation:
+If the boy sells fruit from a street cart, he is a street vendor.
+=================================================================
+Premise: A woman in a blue star printed dress stands next to a grill with food on it.
+Hypothesis: A woman in a starry dress is near a grill that is cooking.
+Label: entailment
+Explanation:
+Just because there is a grill with food on it does not mean the food is cooking.
+=================================================================
+Premise: Four people are bandaging a head wound.
+Hypothesis: People are bandaging an injured head.
+Label: entailment
+Explanation:
+People are bandaging an injured head wound.
+=================================================================
+Premise: a group of people are wearing costumes
+Hypothesis: People are wearing costumes.
+Label: entailment
+Explanation:
+A group means that there are people.
+=================================================================
+Premise: A man riding a dirt bike on a racetrack.
+Hypothesis: A man is riding a dirt bike.
+Label: entailment
+Explanation:
+Both sentences state that a man is riding a dirt bike.
+=================================================================
+Premise: A man gives a speech at an ornate costume party.
+Hypothesis: A man is public speaking.
+Label: entailment
+Explanation:
+If someone gives a speech that means that they are speaking.

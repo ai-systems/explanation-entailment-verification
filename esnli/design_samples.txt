@@ -1,0 +1,294 @@
+=================================================================
+Premise: A large group of people stand outside on a road while people on a higher level look on at them.
+Hypothesis: One group of people are watching what another group does.
+Label: entailment
+Explanation:
+A group of people looking at another means that they are watching them.
+=================================================================
+Premise: An older South American woman is knitting colorful hand warmers and enjoying herself.
+Hypothesis: A human knitting.
+Label: entailment
+Explanation:
+A woman is human.
+=================================================================
+Premise: A man in red and black about to strike a tennis ball.
+Hypothesis: A man is playing tennis.
+Label: entailment
+Explanation:
+The man strikes the tennis ball because he is playing tennis.
+=================================================================
+Premise: Two race car drivers smile on a stage next to a female spokes model wearing a white dress and white and blue boots.
+Hypothesis: Two race car drivers are on stage
+Label: entailment
+Explanation:
+Two race car drivers smile on a stage means two race car drivers are on stage as part of the total description
+=================================================================
+Premise: Two tanned men wearing shorts are pulling a fishing net along a beach shore.
+Hypothesis: The men are on the beach.
+Label: entailment
+Explanation:
+The men on the beach pulling a fishing net to get the fish from the ocean.
+=================================================================
+Premise: A maintenance worker walking past a statue.
+Hypothesis: worker walking by a statue
+Label: entailment
+Explanation:
+A maintenance person walking past a statue.
+=================================================================
+Premise: A man in a green Celtic sleeveless jersey shirt and short stone washed jean shorts sitting and eating.
+Hypothesis: The man is having a meal.
+Label: entailment
+Explanation:
+If the man is eating, he is having a meal.
+=================================================================
+Premise: Two women dressed for cold weather in jackets and gloves look at something on a cellphone screen.
+Hypothesis: The women are near the cellphone.
+Label: entailment
+Explanation:
+the statement that two women are looking at something on a cellphone suggests a cellphone is near. it would be difficult for two women to look at something on a cellphone screen from far away.
+=================================================================
+Premise: A boy poses in karate form and uniform.
+Hypothesis: a boy shows his uniform
+Label: entailment
+Explanation:
+A boy poses in karate form and uniform means the boy shows his uniform.
+=================================================================
+Premise: A woman in sunglasses making a pouting face while eating seafood.
+Hypothesis: A woman is eating.
+Label: entailment
+Explanation:
+Seafood is a form a food that the woman is eating.
+=================================================================
+Premise: A young girl throws sand toward the ocean.
+Hypothesis: The girl is tossing sand into the ocean
+Label: entailment
+Explanation:
+"The girl is tossing sand into the ocean" precises that the girl throwing the sand is the same tossing the sand
+=================================================================
+Premise: older men talking and standing around.
+Hypothesis: The older men are visiting with each other.
+Label: entailment
+Explanation:
+Visiting each other involves talking and standing around between the older men.
+=================================================================
+Premise: People are waiting in line by a food vendor.
+Hypothesis: People stand in line for food.
+Label: entailment
+Explanation:
+A food vendor serves food.
+=================================================================
+Premise: There is one person lying in a large, green field.
+Hypothesis: There is a person alone in a field outdoors.
+Label: entailment
+Explanation:
+one person denotes a person alone
+=================================================================
+Premise: A male bartender dressed in all black with his sleeves rolled up to elbow height making a drink in a martini glass.
+Hypothesis: A person in black
+Label: entailment
+Explanation:
+A bartender, who is a person, is wearing black.
+=================================================================
+Premise: Two older males sitting together on a river boat tour.
+Hypothesis: Two males sitting together on a boat
+Label: entailment
+Explanation:
+In order to take a boat tour, the two males must be on a boat.
+=================================================================
+Premise: A man is on the back of his friend.
+Hypothesis: A man is holding his friend.
+Label: entailment
+Explanation:
+As the man is at back ,so she is holding his friend.
+=================================================================
+Premise: A girl carries large sacks across a backdrop of foliage.
+Hypothesis: a girl carrying sacks
+Label: entailment
+Explanation:
+"Girl carrying sacks" rephrases " girl carries sacks"
+=================================================================
+Premise: A man and a woman stare at the skyline.
+Hypothesis: The two people are looking outside.
+Label: entailment
+Explanation:
+A man and a woman are two people. "Looking outside" is a rephrasing of "stare at the skyline."
+=================================================================
+Premise: a boy walks through the water.
+Hypothesis: A boy walks on water.
+Label: entailment
+Explanation:
+If he is walking though the water then the water must be shallow enough for him to walk, and then it could be said he is walking on the water.
+=================================================================
+Premise: Two women are wet while holding hands with a long building and buses in the background.
+Hypothesis: Women are in the city.
+Label: entailment
+Explanation:
+There are women because there are two women.
+=================================================================
+Premise: A group of people on the beach with cameras.
+Hypothesis: People are on a beach.
+Label: entailment
+Explanation:
+Group of people are people.
+=================================================================
+Premise: A man in a red sweater holds a child on top of his shoulders.
+Hypothesis: The man is touching the child.
+Label: entailment
+Explanation:
+The man is touching the child because he holds the child.
+=================================================================
+Premise: Military woman using a microscope.
+Hypothesis: A woman using a microscope.
+Label: entailment
+Explanation:
+military woman can be inferred as woman.
+=================================================================
+Premise: Two boys wearing colorful winter hats and dark coats are riding bikes and smiling at each other.
+Hypothesis: Two boys are riding bikes.
+Label: entailment
+Explanation:
+Two boys while wearing winter hats and coats are riding a bike
+=================================================================
+Premise: A golden-colored dog, with his eyes alert, holds a brightly colored tennis ball in his mouth.
+Hypothesis: The dog is light colored
+Label: entailment
+Explanation:
+The colour gold is a light one, thus a golden-colored dog is a light-colored dog.
+=================================================================
+Premise: Group of men sitting at a table turn to have their picture taken.
+Hypothesis: The group of men are posing for a picture.
+Label: entailment
+Explanation:
+Posing for a picture and having a picture taken are the same.
+=================================================================
+Premise: People getting ready to cut a birthday cake.
+Hypothesis: they got ready to cut the cake
+Label: entailment
+Explanation:
+"getting ready to cut a birthday cake" is a very similar phrasing to "got ready to cut the cake."
+=================================================================
+Premise: A man wearing a tan hat and shirt, an orange safety vest, and dark glasses gestures towards a nearby car.
+Hypothesis: He gestures towards a nearby car.
+Label: entailment
+Explanation:
+He is a man.
+=================================================================
+Premise: A person on a bicycle wears a helmet and jumps, soaring over the ground in front of a skyline and lake.
+Hypothesis: A person outside with a bike.
+Label: entailment
+Explanation:
+Bike is the short word for bicycle, and the person is outside if the person is soaring over the ground.
+=================================================================
+Premise: A woman in a red hat waiting in line.
+Hypothesis: A woman stands in a line.
+Label: entailment
+Explanation:
+Waiting in line is a paraphrase of stands in a line, and a woman in a red hat is a type of woman.
+=================================================================
+Premise: A man in a blue t-shirt is watching two women sitting at a table in the kitchen baking.
+Hypothesis: A man watches to women  in the kitchen
+Label: entailment
+Explanation:
+"In the kitchen" is a rephrasing of "sitting at a table in the kitchen baking."
+=================================================================
+Premise: Three Indian boys in shorts play with one another.
+Hypothesis: Three boys.
+Label: entailment
+Explanation:
+There are three boys
+=================================================================
+Premise: Sidewalk flower cart vendor.
+Hypothesis: Flower seller on sidewalk.
+Label: entailment
+Explanation:
+Vendor is a seller
+=================================================================
+Premise: There are three woman conversing at a table with drinks.
+Hypothesis: Women are talking
+Label: entailment
+Explanation:
+The women are talking because they are conversing.
+=================================================================
+Premise: A smiling young girl with blond-hair, blue eyes, and a pink shirt, is holding a yellow flower towards the viewer outside.
+Hypothesis: A smiling young girl with blond-hair
+Label: entailment
+Explanation:
+A smiling young girl can also be holding a yellow flower.
+=================================================================
+Premise: Gymnast does a flip on blue flooring.
+Hypothesis: A gymnast displays their skills with a flip
+Label: entailment
+Explanation:
+Displaying skills with a flip is a rephrasing of "does a flip."
+=================================================================
+Premise: Mountain biking in a forest during the early fall.
+Hypothesis: Bicycling through the woods in the Autumn.
+Label: entailment
+Explanation:
+Mountain biking uses bikes and can thus be generically called bicycling. The woods is another word for forest. Autumn is another word for the season of fall.
+=================================================================
+Premise: Three workers bent over pulling grass.
+Hypothesis: Three workers bent over
+Label: entailment
+Explanation:
+Workers are pulling grass while they bent over.
+=================================================================
+Premise: Several children playing outside
+Hypothesis: There are children playing.
+Label: entailment
+Explanation:
+The children are playing, the second sentence only removed the detail of setting.
+=================================================================
+Premise: Three glass elevators with people inside of them.
+Hypothesis: tourists looking out of glass elevators.
+Label: entailment
+Explanation:
+Tourists are people, although people are not always tourists; glass is usually transparent, so that tourists can look through it and elevators made of glass are meant for people to look through, to show of the view.
+=================================================================
+Premise: Old woman chasing away two lambs with a broom.
+Hypothesis: There is a woman and some animals.
+Label: entailment
+Explanation:
+Two lambs are animals, and the woman is chasing them away so she must be close to the animals. That means that there is a woman and some animals.
+=================================================================
+Premise: A little boy in a bathrobe sits on a bench near the shower in a bathroom.
+Hypothesis: The boy is inside of the building.
+Label: entailment
+Explanation:
+Little boy is a boy and bathroom implies inside.
+=================================================================
+Premise: A man and a woman sit on a deck under a blue sky that is about to be overtaken by tumultuous clouds.
+Hypothesis: There are many clouds in the blue sky.
+Label: entailment
+Explanation:
+If a blue sky is about to overtaken by tumultuous clouds then as the clouds move there are many clouds in the blue sky.
+=================================================================
+Premise: Children and adults swim in large pool with red staircase.
+Hypothesis: A group of people are swimming.
+Label: entailment
+Explanation:
+Both children and adults are people.
+=================================================================
+Premise: a woman and her dog sitting at an outdoor cafe table
+Hypothesis: A woman and her pet sit outside at a restaurant.
+Label: entailment
+Explanation:
+outdoor cafe table is inferred as  outside at a restaurant.
+=================================================================
+Premise: A young man wearing goggles, is jumping out of a pool, splashing water everywhere.
+Hypothesis: Man jumping out of a pool.
+Label: entailment
+Explanation:
+There is both a man jumping out of a pool.
+=================================================================
+Premise: A dog running on grass
+Hypothesis: A dog is on the grass.
+Label: entailment
+Explanation:
+A dog could  also be running on grass.
+=================================================================
+Premise: Young boy in swimsuit plays in sprinklers outside
+Hypothesis: A child outside in water.
+Label: entailment
+Explanation:
+A young boy is a child; sprinklers involve water and the sprinklers are outside.
